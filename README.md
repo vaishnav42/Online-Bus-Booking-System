@@ -24,8 +24,9 @@ C:\xampp\htdocs\Online Bus Booking System
 
 ## How to Run the Project
 1. Open your web browser.  
-2. Type the following URL in the address bar:
-3. 3. The **Home Page** will load, allowing users to:
+2. Type the following URL in the address bar
+http://localhost/OnlineBusBookingSystem/
+3.  The **Home Page** will load, allowing users to:
 - Register or log in  
 - Search buses by route, date, or time  
 - View seat availability and make bookings  
